@@ -13,9 +13,7 @@ The hard score (hard_score) is build of the mean of neuroticism, extraversion, i
 A drug prevention organization is interested in the use frequency of illegal drugs of hardliner personalities versus other people. Furthermore, they want to predict the use of illegal drugs.
 
 
-![Kind County, Washington](https://48h57c2l31ua3c3fmq1ne58b-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/Bellevue-and-Cascades-King-County.jpeg)
-King County, WA/USA
-
+![drugs_and_personality](https://theonebrief.com/wp-content/uploads/2018/01/aon_managing_opoid_crisis_website_1000x589.v1.jpg)
 
 ## Data Science Life Cycle
 - Business Understanding
