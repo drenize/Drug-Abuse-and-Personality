@@ -25,14 +25,41 @@ A drug prevention organization is interested in the use frequency of illegal dru
 - Data Visualisation
 
 ## Data Cleaning
-
+Missing values were filled 
 
 ## Data Engineering
-
+New features were build: 
++ soft = soft drugs
++ hard = hard drugs
++ legal = legal drugs
++ illegal = illegal drugs
++ hard_score = includes personality traits neuroticism(Nscore), extraversion (Escore), open to new experiences (Oscore), sensation seeking (SS), impulsiveness (impulsive)
++ hardliners = 10% highest scoring participants on hard_score
 
 ## Predictive Modeling
+Models were applied and compared for recall and accuracy scores
++ XGBClassifier
++ AdaBoost
++ RandomForestClassifier
++ Support Vector Machine
++ DecisionTreeClassifier
 
-## Results and Recommendations
+## Recommendations
++ reliable prediction of hardliners is not possible with current data
++ reliable prediction of illegal drug users on the other hand is possible based on: 
+sensation seeking, ethnicity, openness to new experiences, country, conscientiousness,  age
++ illegal drug use is a widespread issue throughout society
 
 
 ## Future Work
+Data related implications:
++ collect data on socioeconomic status
++ collect data on amount of drug doses
++ collect data on clinical diagnoses
++ collect data on abuse and addiction
++ collect timeline data to identify co-morbidity of diverse substance abuse or/and addiction
+
+Model related implications: 
++ try unsupervised machine learning models 
++ apply regression models on continuous data
++ new model for hardliner prediction
