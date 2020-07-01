@@ -2,7 +2,7 @@
 
 **Objective**
 
-This project aims at unravelling the relationship between personality traits and drug consumption.
+This project aims at examining the relationship between personality traits and drug consumption.
 First, the normalized data is coded into more apprehensible, numeric categories. 
 Then further features are engineered to highlight deeper data structures. The engineered variables are: soft drug consumption, hard drug consumption, legal drug consumption, illegal drug consumption, synthetic and nonsynthetic drug consumption, recent consumtion, hard score and hardliners.
 
