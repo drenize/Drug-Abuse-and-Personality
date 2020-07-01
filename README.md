@@ -25,7 +25,7 @@ A drug prevention organization is interested in the use frequency of illegal dru
 - Data Visualisation
 
 ## Data Cleaning
-Missing values were filled 
+- normalized values were converted into comprehensible numeric categories
 
 ## Data Engineering
 New features were build: 
