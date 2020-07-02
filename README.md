@@ -1,5 +1,7 @@
 # Drug Abuse and Personality Traits
 
+![drugs_and_personality](https://theonebrief.com/wp-content/uploads/2018/01/aon_managing_opoid_crisis_website_1000x589.v1.jpg)
+
 **Objective**
 
 This project aims at examining the relationship between personality traits and drug consumption.
@@ -12,8 +14,6 @@ The hard score (hard_score) is build of the mean of neuroticism, extraversion, i
 
 A drug prevention organization is interested in the use frequency of illegal drugs of hardliner personalities versus other people. Furthermore, they want to predict the use of illegal drugs.
 
-
-![drugs_and_personality](https://theonebrief.com/wp-content/uploads/2018/01/aon_managing_opoid_crisis_website_1000x589.v1.jpg)
 
 ## Data Science Life Cycle
 - Business Understanding
